@@ -1,5 +1,8 @@
 a = 2
 b = 3
 c = 6
-penjumlahan = a / b / c
-print (penjumlahan)
+
+pembagian = a / b / c
+print (pembagian)
+perkalian = a * b * c
+
